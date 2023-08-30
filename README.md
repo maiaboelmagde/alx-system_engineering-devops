@@ -1,3 +1,1 @@
-# alx-system_engineering-devops
-0x00 Shell-basics task - Alx
-day1
+my first task at sell
